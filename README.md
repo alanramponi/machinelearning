@@ -1,2 +1,2 @@
 # machinelearning
-some useful learning techniques
+some snippets and exercises about machine learning techniques.
